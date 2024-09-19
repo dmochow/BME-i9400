@@ -12,3 +12,7 @@ The objective of the course is to provide students with foundational theoretical
   * Theory section for Lecture 1 is available [here](https://github.com/dmochow/BME-i9400/blob/main/slides/2024-L01.pdf)
 * Lecture 2: [Primer: Linear Algebra](https://github.com/dmochow/BME-i9400/blob/main/slides/lecture_02_linear_algebra.ipynb)
 * Lecture 3: [Optimization Theory and Gradient Descent](https://github.com/dmochow/BME-i9400/blob/main/slides/lecture_03_optimization.ipynb)
+
+
+## Homework Assignments
+* Homework 1 [Monty Hall Problem](https://github.com/dmochow/BME-i9400/blob/main/homework/homework_1.ipynb)
